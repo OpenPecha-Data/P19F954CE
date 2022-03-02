@@ -1,0 +1,13 @@
+id: P19F954CE
+initial_creation_type: input
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: en
+  volumes:
+    08526a1224e741eabc1ed5a2b01d8350:
+      title: Complete text
+      base_file: Complete text.txt
+      work_id: WE0E86C46
+  chapter_to_tile: {}
+created_at: '2022-03-02T09:07:46.195246'
+last_modified_at: '2022-03-02T09:07:46.195268'
